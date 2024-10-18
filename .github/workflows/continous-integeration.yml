@@ -7,7 +7,7 @@ on:
   pull_request:
     branches:
       - develop
-      - refact/auth-screen
+      - fix/test
 
 jobs:
   build:
